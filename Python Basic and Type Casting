@@ -1,0 +1,11 @@
+N = 1234567890
+F = 1234567.89
+S = "Sab"
+print (type(N))
+print (type(F))
+print (type(S))
+N1 = str(N)
+F1 = str(F)
+print (N1[::-1])
+print (F1[::-1])
+print (S[::-1])
